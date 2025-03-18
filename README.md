@@ -1,2 +1,2 @@
 # TeslaCoil
-Project made for my engineering diploma at PWr.
+Project made for my engineering diploma at PWr. Worked beautifuly at 60 V DC supply, and was supposed to run also on 230 V AC, but the driver MOSFETs blew up at both of the two trials. The reason might have been poorly selected MOSFETs, insuficient protection circuitry (eg. lack of snubbers) or other, unknown. The schematic was prepared in some online tool, and the device was assembled using a universal perfboard, not a PCB (although a PCB was designed in Altium Designer for the sake of the thesis paper).
